@@ -1,0 +1,20 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "Blogging",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Bishal S Jena",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-sanitizer": "^1.0.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.1.7",
+    "nodemon": "^1.18.3"
+  }
+}
